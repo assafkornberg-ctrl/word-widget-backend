@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Word Widget Backend API
 
 Backend API for the embeddable word game widget platform.
@@ -62,3 +63,7 @@ word-widget-backend/
 - Never commit your `.env` file to Git
 - The `.env` file contains sensitive information (passwords, secrets)
 - Always use environment variables for configuration
+=======
+# word-widget-backend
+Word Widget - Game Publisher SaaS Platform
+>>>>>>> 3c06e86fc91b64809c707dcc329aa8ef8180fe99
